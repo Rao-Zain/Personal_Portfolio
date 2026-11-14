@@ -75,7 +75,7 @@ export const projectsData = [
         ],
         role: 'Full Stack Developer',
         code: 'https://github.com/Rao-Zain/Face_Attendance',
-        demo: 'https://face-attendance-iota-seven.vercel.app',
+        demo: '',
     },
     {
         id: 5,
@@ -91,7 +91,7 @@ export const projectsData = [
         ],
         role: 'Full Stack Developer',
         code: 'https://github.com/Rao-Zain/Student_management_system',
-        demo: 'https://student-management-system-alpha-weld.vercel.app',
+        demo: '',
     },
     {
         id: 6,
