@@ -35,11 +35,12 @@ A professional portfolio template built with **Next.js 16**, **React 19**, and *
 ## Demo :movie_camera:
 
 <p align="center">
-  <img src="./public/image/screen.png" alt="Portfolio Screenshot" width="100%">
+  <img width="1349" height="598" alt="image" src="https://github.com/user-attachments/assets/62ec0868-8951-4e1d-8ffb-78d3d7afe22d" />
+
 </p>
 
 <p align="center">
-  <a href="https://abusaid.netlify.app/" target="_blank">
+  <a href="https://zainnii.vercel.app/" target="_blank">
     <strong>🚀 View Live Demo</strong>
   </a>
 </p>
@@ -89,7 +90,6 @@ This portfolio leverages the latest Next.js 16 and React 19 capabilities:
 | 🛠️ **Skills**     | Technical skills with animated marquee display      |
 | 🚀 **Projects**   | Showcase your best work with descriptions and links |
 | 🎓 **Education**  | Academic background and certifications              |
-| 📝 **Blog**       | Latest articles from dev.to (auto-fetched)          |
 | 📧 **Contact**    | Get in touch form with email/Telegram integration   |
 
 ---
@@ -162,7 +162,7 @@ pnpm --version  # or npm --version
 ### 1. Fork and Clone the Repository
 
 ```bash
-git clone https://github.com/<YOUR_GITHUB_USERNAME>/developer-portfolio.git
+git clone https://github.com/Rao-Zain/Personal-Portfolio.git
 cd developer-portfolio
 ```
 
